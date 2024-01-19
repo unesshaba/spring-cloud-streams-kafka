@@ -3,7 +3,7 @@
 ## ScreenShots :
 
 ### Topic R1: 
-<img width="1440" alt=https://github.com/unesshaba/spring-cloud-streams-kafka/blob/master/blob/master/assets/img.png">
+<img width="1440" alt=https://github.com/unesshaba/spring-cloud-streams-kafka/blob/master/assets/img.png">
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-<img width="1440" alt=lien2.png src="https://github.com/unesshaba/spring-cloud-streams-kafka/blob/master/blob/master/assets/lien2.PNG">
+<img width="1440" alt=lien2.png src="https://github.com/unesshaba/spring-cloud-streams-kafka/blob/master/assets/lien2.PNG">
 
 
 ### Topic R3: 
