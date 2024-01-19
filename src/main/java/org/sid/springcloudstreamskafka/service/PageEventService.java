@@ -44,6 +44,7 @@ public class PageEventService {
             input.setName("New Page Event");
             input.setUser("new user");
             return input;
+
         };
     }
     /*//@Bean
